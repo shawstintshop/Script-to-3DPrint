@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OpenSCAD exports (generated artifacts)
+stl/
+
+# macOS metadata
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
